@@ -1,0 +1,4 @@
+name: WebhookPlugin
+version: 1.0
+main: org.eishgaming.webhooks.WebhookPlugin
+api-version: 1.16
